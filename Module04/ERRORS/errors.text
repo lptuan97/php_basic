@@ -1,0 +1,6 @@
+PHP Errors
+
+- PARSE: lỗi cú pháp, chuơng trình sẽ dừng khi gặp lỗi này
+- FATAL: Lỗi do không biên dịch được, chương trình sẽ dừng khi gặp lỗi
+- WARNING: Lỗi cảnh báo nghiêm trọng, chương trình vẫn chạy
+- NOTICE: Lỗi không nghiêm trọng giống warning

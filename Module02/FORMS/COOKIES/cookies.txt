@@ -1,0 +1,6 @@
+Cookie là chuỗi thông tin lưu ở trình duyệt
+Một số chức năng thông dụng:
+- Ghi nhớ đăng nhập
+- Lịch sử tìm kiếm sản phẩm trên website
+- Lịch sử sản phẩm đã xem
+- Gợi ý sản phẩm, dịch vụ (Dựa trên thoái quen tìm kiếm, xem sản phẩm,...)

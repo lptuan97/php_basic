@@ -1,0 +1,9 @@
+1. Validate Form là gì?
+- Xác thực dữ liệu trước khi xử lý.
+- Validate form có 2 loại:
+    + Validate Client: Thẻ HTML 5, JavaScript.
+    + Validate Server: PHP
+2. Quy trình validate form
+- Bước 1: Xác định rules (Field này => Điều kiện là gì)
+- Bước 2: Xác định message (Tương ứng với rules)
+- Bước 3: Thực hiện chạy validate

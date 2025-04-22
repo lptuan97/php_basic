@@ -1,0 +1,19 @@
+Tổng quan về Object (Đối tượng)
+- Object là một tập hợp các thuộc tính cụ thể nào đó cho một đối tượng cụ thể
+- Object bao gồm:
+    + Hằng số (const)
+    + Phương thức (Hàm)
+    + Thuộc tính (Biến)
+- Để có object ta cần định nghĩa lớp (class)
+
+- cú pháp khởi tạo object
+    $tenBien = new TenLop(thamso)
+    hoặc
+    $tenBien = new TenLop()
+    hoặc
+    $tenBien = new TenLop
+
+- Cách sử dụng:
+    + Gọi hằng số: $tenBienDoiTuong::tenhang;
+    + Gọi thuộc tính: $tenBienDoiTuong->tenthuoctinh; //không có dấu $
+    + Gọi phương thức: $tenBienDoiTuong->tenPhuongThuc(thamso);
